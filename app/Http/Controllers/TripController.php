@@ -21,6 +21,6 @@ class TripController extends Controller
             
         ]);
 
-        // Redirect or do something else
+        
     }
 }
