@@ -24,7 +24,7 @@ class TicketController extends Controller
             
         ]);
 
-        // Redirect or do something else
+        
     }
 }
 
